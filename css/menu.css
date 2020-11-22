@@ -1,10 +1,4 @@
 
-body{
-	-webkit-background: linear-gradient(#dbe6f6 0%,#c5796d 100%);
-	-moz-background: linear-gradient(#dbe6f6 0%,#c5796d 100%);
-	-o-background: linear-gradient(#dbe6f6 0%,#c5796d 100%);
-	background: linear-gradient(#dbe6f6 0%,#c5796d 100%);
-}
 a{
 	-webkit-font-size: 50px;
 	-moz-font-size: 50px;

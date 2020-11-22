@@ -1,0 +1,28 @@
+
+body{
+	-webkit-background: linear-gradient(#dbe6f6 0%,#c5796d 100%);
+	-moz-background: linear-gradient(#dbe6f6 0%,#c5796d 100%);
+	-o-background: linear-gradient(#dbe6f6 0%,#c5796d 100%);
+	background: linear-gradient(#dbe6f6 0%,#c5796d 100%);
+}
+a{
+	-webkit-font-size: 50px;
+	-moz-font-size: 50px;
+	-o-font-size: 50px;
+	font-size: 50px;
+	color: blue;
+}
+
+a:hover,a:focus{
+	-webkit-color:#32a86f;
+	-moz-color:#32a86f;
+	-o-color:#32a86f;
+	color:#32a86f;
+}
+
+a:visited{
+	-webkit-color:#8dc2c0;
+	-moz-color:#8dc2c0;
+	-o-color:#8dc2c0;
+	color:#8dc2c0;
+}

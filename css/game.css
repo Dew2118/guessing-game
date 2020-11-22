@@ -1,0 +1,50 @@
+body{
+	-webkit-background: linear-gradient(#61cfc4 0%,#e1f5f3 100%);
+	-moz-background: linear-gradient(#61cfc4 0%,#e1f5f3 100%);
+	-o-background: linear-gradient(#61cfc4 0%,#e1f5f3 100%);
+	background: linear-gradient(#61cfc4 0%,#e1f5f3 100%);
+}
+
+a{
+	-webkit-font-size: 100px;
+	-moz-font-size: 100px;
+	-o-font-size: 100px;
+	font-size: 100px;
+}
+
+span{
+	-webkit-font-size: 100px;
+	-moz-font-size: 100px;
+	-o-font-size: 100px;
+	font-size: 100px;
+}
+
+span.word{
+	-webkit-font-size: 300px;
+	-moz-font-size: 300px;
+	-o-font-size: 300px;
+	font-size: 300px;
+}
+
+
+button{
+	-webkit-display: inline-block;
+	-moz-display: inline-block;
+	-o-display: inline-block;
+	display: inline-block;
+
+	-webkit-width: 400px;
+	-moz-width: 400px;
+	-o-width: 400px;
+	width: 400px;
+
+	-webkit-height: 400px;
+	-moz-height: 400px;
+	-o-height: 400px;
+	height: 400px;
+
+	-webkit-font-size: 100px;
+	-moz-font-size: 100px;
+	-o-font-size: 100px;
+	font-size: 100px;
+}

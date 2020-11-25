@@ -7,7 +7,7 @@ var countdown = setInterval(function() {
 
 
  var randomStrings = [
-    "Grape",
+    "องุ่น",
     "Pineapple",
     "Avocado",
     "Blueberries",
@@ -26,7 +26,7 @@ var countdown = setInterval(function() {
     "Guava",
     "Papaya",
     "Cherries",
-    "Linchi",
+    "ลิ้นจี่",
     "Peach"
   ];
 

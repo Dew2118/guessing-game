@@ -14,13 +14,13 @@ a{
 }
 
 span{
-	-webkit-font-size: 100px;
-	-moz-font-size: 100px;
-	-o-font-size: 100px;
+	-webkit-font-size: 90%;
+	-moz-font-size: 90%;
+	-o-font-size: 90;
 	font-size: 100px;
 }
 
-#word{
+#word{height:1000px;
 	clear: both;
 	margin-top: 10%;
 	text-align: center;

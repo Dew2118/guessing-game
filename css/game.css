@@ -19,7 +19,7 @@ span{
 	font-size: 100px;
 }
 
-span.word{
+span.word{text-align: center;
 	-webkit-font-size: 500px;
 	-moz-font-size: 500px;
 	-o-font-size: 500px;
@@ -33,15 +33,15 @@ button{
 	-o-display: inline-block;
 	display: inline-block;
 
-	-webkit-width: 300px;
-	-moz-width: 300px;
-	-o-width: 300px;
-	width: 300px;
+	-webkit-width: 100px;
+	-moz-width: 100px;
+	-o-width: 100px;
+	width: 100px;
 
-	-webkit-height: 300px;
-	-moz-height: 300px;
-	-o-height: 300px;
-	height: 300px;
+	-webkit-height: 100px;
+	-moz-height: 100px;
+	-o-height: 100px;
+	height: 100px;
 
 	-webkit-font-size: 100px;
 	-moz-font-size: 100px;
